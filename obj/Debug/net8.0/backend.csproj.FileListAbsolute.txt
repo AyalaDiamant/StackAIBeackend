@@ -1,0 +1,14 @@
+C:\Users\אילה\Desktop\פרוייקט אילה ואתי\backend\bin\Debug\net8.0\backend.exe
+C:\Users\אילה\Desktop\פרוייקט אילה ואתי\backend\bin\Debug\net8.0\backend.deps.json
+C:\Users\אילה\Desktop\פרוייקט אילה ואתי\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+C:\Users\אילה\Desktop\פרוייקט אילה ואתי\backend\bin\Debug\net8.0\backend.dll
+C:\Users\אילה\Desktop\פרוייקט אילה ואתי\backend\bin\Debug\net8.0\backend.pdb
+C:\Users\אילה\Desktop\פרוייקט אילה ואתי\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אילה\Desktop\פרוייקט אילה ואתי\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\אילה\Desktop\פרוייקט אילה ואתי\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\אילה\Desktop\פרוייקט אילה ואתי\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\אילה\Desktop\פרוייקט אילה ואתי\backend\obj\Debug\net8.0\backend.dll
+C:\Users\אילה\Desktop\פרוייקט אילה ואתי\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\אילה\Desktop\פרוייקט אילה ואתי\backend\obj\Debug\net8.0\backend.pdb
+C:\Users\אילה\Desktop\פרוייקט אילה ואתי\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+C:\Users\אילה\Desktop\פרוייקט אילה ואתי\backend\obj\Debug\net8.0\ref\backend.dll
